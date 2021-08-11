@@ -22,3 +22,4 @@ e.Use(echologrus.Hook())
 ```
 
 Based from: [plutov/echo-logrus](https://github.com/plutov/echo-logrus)
+And patch by [kochetkov-av/echo-logrus](https://github.com/kochetkov-av/echo-logrus)
